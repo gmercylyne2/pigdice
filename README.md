@@ -3,7 +3,7 @@
 [Click here to view deployed site ](https://example.com)
 
 Authors: [Marcelline](gmercylyne.com)
-# Anita's Kitchen project
+# pig dice game
 
 [Click here to view deployed site ](https://gmercylyne2.github.io/xxxxx)
 
