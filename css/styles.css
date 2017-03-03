@@ -1,0 +1,10 @@
+body {
+  background: orange;
+  display: inline;
+  padding: 10px;
+  line-height: 2em;
+}
+
+.top {
+  background-image: url("../images/dice.jpg");
+}
