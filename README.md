@@ -5,7 +5,7 @@
 Authors: [Marcelline](gmercylyne.com)
 # pig dice game
 
-[Click here to view deployed site ](https://gmercylyne2.github.io/xxxxx)
+[Click here to view deployed site ](https://gmercylyne2.github.io/pigdice/. )
 
 Authors: [Marcelline](gmercylyne@gmail.com)
 
